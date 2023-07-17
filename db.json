@@ -1,0 +1,102 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Dark Patterns #AluraMais",
+      "descricao": "712 visualizações",
+      "url": "https://www.youtube.com/embed/GswlRSFC8x8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "Dark Patterns",
+      "descricao": "3 mil visualizações",
+      "url": "htpps:// www.youtube.com/embed/GswlRSFC8x8",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxESEBUSEhAVFRUXFhYaFxgVFxYXFRcYFRYWFxYVFRgbHikhGBsmHhYVIjIiJiosLy8vGCA0OTQuOCouLy4BCgoKDg0OGxAQGzEmHiYuLi8sLCwwLi4wLCwuLi4uLjYsLDAuLi4vMCwsMC4sMC4wLiwuLjAuLCwxLy4xLi4uLv/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAABAEDBQIGB//EAEcQAAIBAwMDAgMGAwQGCAcBAAECEQADIQQSMQUiQRNRMmFxBhQjQoGRUqGxM5LB0QcVJGJygjRDY3OTs9LwU1SissLD4Rb/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBAX/xAAnEQEBAAIBAwMDBQEAAAAAAAAAAQIRMQMhQRJRcQQTwSKBkaHwYf/aAAwDAQACEQMRAD8A+20UUVUFFFSKCKKyGFtRce7cuKBdKz6t1VG4qFEK0KO4CeBz7079wT+K7/417/10DVFZWlSxeBNu5cYKxUlb1+Ny8gHf3RxIkTNX6JIu3QCxA2RuZng7ZMbiY5FA9RFTXF54Vj7An9hNB1RXzf7Nf6RLrtZGu04tpfxavoGFpmDFSCGJjuETOMSIM16P7Z/aG7pBYWxZF67euFFQsVmBmP1K/vRXpaKx/sr1tdbpUvgbWMh0/guLh19/mPkRXkeq/avqdu9q7luzp302lubXU7luFYmQd3MZmP0NB9GiivG/ab7Wvb6bZ1umVYuPbkXQTCurEjBHcCAJmmND1+9f6re0toW/u+nQeq5Vi/qMMIrB4GSeVP8AZsPIID1UUVNeL132wvpfvqujD29PJuMLgDBf44I+uBP1rWONy4c8+pjhr1PZ0V5jrH2ys2LVm6tt7ovIzqFgEBds7vY90foac631xrNq3dtad9QLhx6e4kAqWVu1WMGnovY+5j378NuivD9P+3F+84CdO",
+      "id": 14
+    }
+  ]
+}
